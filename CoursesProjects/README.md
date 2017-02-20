@@ -13,4 +13,5 @@ These are my course projects which are related with machine learning and data sc
 | Machine Learning Classification| University of Washington | 短文本 | 中等文本 |
 | Machine Learning Clustering| University of Washington | 短文本 | 中等文本 |
 | Probabilistic Graphical Models Representation| Stanford University | 短文本 | 中等文本 |
+| Optimize Methods| MIT | 短文本 | 中等文本 |
 | Image and Video Processing| Duke University | 短文本 | 中等文本 |
