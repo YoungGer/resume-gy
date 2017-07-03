@@ -1,17 +1,17 @@
 These are my course projects which are related with machine learning and data science.
 
-| Course Name | University | Course Content | Course Projects | 
-| ------|------| ------ | ------ |------ |
-| Introduction to Big Data with Apache Spark | UC Berkeley |中等文本 | 稍微长一点的文本 |
-| Scalable Machine Leaning | UC Berkeley | 短文本 | 中等文本 |
-| The Analytics Edge | MIT | 短文本 | 中等文本 |
-| Machine Leaning Foundations | National Taiwan University | 短文本 | 中等文本 |
-| Machine Leaning Techniques | National Taiwan University | 短文本 | 中等文本 |
-| Machine Leaning| Stanford University | 短文本 | 中等文本 |
-| Machine Learning Foundations| University of Washington | 短文本 | 中等文本 |
-| Machine Learning Regression| University of Washington | 短文本 | 中等文本 |
-| Machine Learning Classification| University of Washington | 短文本 | 中等文本 |
-| Machine Learning Clustering| University of Washington | 短文本 | 中等文本 |
-| Probabilistic Graphical Models Representation| Stanford University | 短文本 | 中等文本 |
-| Optimize Methods| MIT | 短文本 | 中等文本 |
-| Image and Video Processing| Duke University | 短文本 | 中等文本 |
+| Course Name | University | 
+| ------|------|
+| Introduction to Big Data with Apache Spark | UC Berkeley |
+| Scalable Machine Leaning | UC Berkeley | 
+| The Analytics Edge | MIT | 
+| Machine Leaning Foundations | National Taiwan University | 
+| Machine Leaning Techniques | National Taiwan University | 
+| Machine Leaning| Stanford University | 
+| Machine Learning Foundations| University of Washington |
+| Machine Learning Regression| University of Washington | 
+| Machine Learning Classification| University of Washington | 
+| Machine Learning Clustering| University of Washington | 
+| Probabilistic Graphical Models Representation| Stanford University | 
+| Optimize Methods| MIT | 
+| Image and Video Processing| Duke University |
