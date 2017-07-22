@@ -6,6 +6,7 @@ My interest lies in `machine learning` and `data science` which can been seen fr
 There are some courses which help me a lot:
 
 Main Machine Learning Courses Certification:
+- "Deep Learning Nano Degree" by Udacity
 - "机器学习基石" by National Taiwan University
 - "机器学习技法" by National Taiwan University
 - "MachineLearning Specialization" by University of Washington
