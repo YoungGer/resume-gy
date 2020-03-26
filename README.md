@@ -1,8 +1,10 @@
 I am a self-driving car engineer and I am interested in self-driving car technologies and machine learning.
 
+# Courses
+
 Over the past few years, I've completed 56 courses and get certifications using part time. I recognize lifelong learning and want to grow through continuous learning.
 
-Some completed courses and certifications are shown in the table below, which mainly includes self-driving car, robotics, machine learning and data science.
+Some completed courses and certifications are shown in the table below, which mainly includes self-driving car, robotics, machine learning and data science. For more courses, you can view [courses](/CoursesCertification)
 
 | Catigory      | Course Name /  Certification    | University / Educational Service     | 
 | ---------- | ----------- | ----------- |
@@ -41,37 +43,17 @@ Some completed courses and certifications are shown in the table below, which ma
 |  Data Science    | [Internet Emerging Technologies](/CoursesCertification/DataScience/DataScience_YONSEI_InternetTechs.pdf)    | Yonsei University| 
 
 
+# Projects
 
+I've completed many interesting projects through learning courses. Some of my projects are:
 
+| Project      | Description    | 
+| ---------- | ----------- | 
+| a | b | 
 
+To learn more about the projects，you can check these repositories:
 
-
-
-
-
-
-
-
-
-aaa
-
-| Self Driving Car   | [Self-Driving Cars Specialization
-](/CoursesCertification/MachineLearning/SelfDrivingCar_UofT_Specialization.pdf)    | University of Toronto   | 
-
-
-
-
-
-
-/MachineLearning/SelfDrivingCar_UofT_Intro.pdf
-
-Some of my projects:
-
-
-# Machine Learning & Data Science Courses
-
-There are mainly two parts to know me.
-
-- [CoursesCertification](/CoursesCertification): I've got 43 course certifications and 2 specialization certifications, most of which is related to machine learning and data science.
-- [CoursesProjects](/CoursesProjects): I've practiced lots of codes through course learning. There are some codes to show my work.
+| Repository      | Description    | 
+| ---------- | ----------- | 
+| a | b | 
 
