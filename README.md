@@ -4,7 +4,7 @@ Over the past few years, I've completed 56 courses and get certifications using 
 
 Some completed courses and certifications are shown in the table below, which mainly includes self-driving car, robotics, machine learning and data science.
 
-| Catigory      | Course Name     | University / Educational Service     | 
+| Catigory      | Course Name /  Certification    | University / Educational Service     | 
 | ---------- | ----------- | ----------- |
 | Self Driving Car   | [Self-Driving Car Engineer](/CoursesCertification/MachineLearning/SelfDrivingCarEngineer_NanoDegree_Udacity.pdf)    | Udacity   | 
 | Self Driving Car   | [Sensor Fusion](/CoursesCertification/MachineLearning/SensorFusion_NanoDegree_Udacity.pdf) | Udacity  | 
