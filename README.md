@@ -25,6 +25,23 @@ Some of my Finished Courses and certifications:
 |  Machine Learning    | [Machine Learning: Classification](/CoursesCertification/MachineLearning/MachineLearning_UW_Classification.pdf)    | University of Washington  | 
 |  Machine Learning    | [Machine Learning: Clustering Retrieval](/CoursesCertification/MachineLearning/MachineLearning_UW_Cluster.pdf)    | University of Washington  | 
 |  Machine Learning    | [Machine Learning: Specialization](/CoursesCertification/MachineLearning/MachineLearning_UW_Specialization.pdf)    | University of Washington  | 
+|  Data Science    | [Introduction to Big Data with Apache Spark](/CoursesCertification/DataScience/DataScience_Berkeley_IntroSpark.pdf)    | University of California Berkeley  | 
+|  Data Science    | [Scalable Machine Learning](/CoursesCertification/DataScience/DataScience_Berkeley_ScalableML.pdf)    |  University of California Berkeley  | 
+|  Data Science    | [Business Metrics for Data-Driven Companies](/CoursesCertification/DataScience/DataScience_DUKE_BusinessMetrics.pdf)    | Duke University | 
+|  Data Science    | [Data Analysis and Statistical Inference](/CoursesCertification/DataScience/DataScience_DUKE_DataAnalysisStatisticalInference.pdf)    | Duke University  | 
+|  Data Science    | [Data Visualization and Communication with Tableau](/CoursesCertification/DataScience/DataScience_DUKE_DataVisualWithTableau.pdf)    | Duke University | 
+|  Data Science    | [The Analytics Edge](/CoursesCertification/DataScience/DataScience_MIT_AnalyticsEdge.pdf)    | Massachusetts Institute of Technology | 
+|  Data Science    | [Exploratory Data Analysis](/CoursesCertification/DataScience/DataScience_JHU_ExploDataAnalysis.pdf)    | Johns Hopkins University | 
+|  Data Science    | [Getting and Cleaning Data](/CoursesCertification/DataScience/DataScience_JHU_GetCleanData.pdf)    | Johns Hopkins University | 
+|  Data Science    | [R Programming](/CoursesCertification/DataScience/DataScience_JHU_rProgram.pdf)    | Johns Hopkins University | 
+|  Data Science    | [Using Python to Access Web Data](/CoursesCertification/DataScience/DataScience_MICHIGAN_PythonAccessWebData.pdf)    | University of Michigan| 
+|  Data Science    | [Using Databases with Python](/CoursesCertification/DataScience/DataScience_MICHIGAN_PythonDataBases.pdf)    | University of Michigan| 
+|  Data Science    | [Big Data, Cloud Computing, & CDN Emerging Technologies](/CoursesCertification/DataScience/DataScience_YONSEI_CloudBigDataCDN.pdf)    | Yonsei University| 
+|  Data Science    | [Internet Emerging Technologies](/CoursesCertification/DataScience/DataScience_YONSEI_InternetTechs.pdf)    | Yonsei University| 
+
+
+
+
 
 
 
