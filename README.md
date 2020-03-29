@@ -49,7 +49,10 @@ I've completed many interesting projects through learning courses. Some of my pr
 
 | Project      | Description    | 
 | ---------- | ----------- | 
-| a | b | 
+| [System Integration by Udacity](https://github.com/YoungGer/Udacity-SelfDrivingCar-NanoDegree/tree/master/CarND-Capstone) | Implement with ROS the main modules of an autonomous vehicle: Perception, Planning and Control, which will be tested on Udacity´s Self Driving Car ´Carla´ around a test track using waypoint navigation. | 
+| [Path Planning by Udacity](https://github.com/YoungGer/Udacity-SelfDrivingCar-NanoDegree/tree/master/CarND-Path-Planning-Project) | Develop decision making, path planning algorithms to enable vehicles to keep lanes and change lanes | 
+| [Motion Planning by UofT](https://github.com/YoungGer/sdc_coursera_UofT/tree/master/04_motion_planning) | Implement behavioral planning logic, as well as static collision checking, path selection to make car avoid both static and dynamic obstacles while tracking the center line of a lane, while also handling stop signs.  | 
+
 
 To learn more about the projects，you can check these repositories:
 
