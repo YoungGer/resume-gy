@@ -54,6 +54,10 @@ I've completed many interesting projects through learning courses. Some of my pr
 | [Motion Planning](https://github.com/YoungGer/sdc_coursera_UofT/tree/master/04_motion_planning) | Implement behavioral planning logic, as well as static collision checking, path selection to make car avoid both static and dynamic obstacles while tracking the center line of a lane, while also handling stop signs.  | 
 | [Object Tracking using EKF](https://github.com/YoungGer/Udacity-SelfDrivingCar-NanoDegree/tree/master/CarND-Extended-Kalman-Filter-Project) | Utilize sensor data from both LIDAR and RADAR measurements for object (e.g. pedestrian, vehicles, or other moving objects) tracking with the Extended Kalman Filter.  | 
 | [Object Tracking using UKF](https://github.com/YoungGer/Udacity-SelfDrivingCar-NanoDegree/tree/master/CarND-Unscented-Kalman-Filter-Project) | Utilize sensor data from both LIDAR and RADAR measurements for object (e.g. pedestrian, vehicles, or other moving objects) tracking with the Unscented Kalman Filter.  | 
+| [Visual Odometry for Localization in Autonomous Driving](https://github.com/YoungGer/sdc_coursera_UofT/tree/master/03_perception/visual_odometer) | Visual odometer including feature detection, feature drecription, feature matching, motion estimation through pnp | 
+| [Environment Perception For Self-Driving Cars](https://github.com/YoungGer/sdc_coursera_UofT/tree/master/03_perception) | drivable space estimation in 3D,  lane estimation | 
+
+
 
 
 To learn more about the projects，you can check these repositories:
