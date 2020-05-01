@@ -59,6 +59,9 @@ I've completed many interesting projects through learning courses. Some of my pr
 | [Visual Odometry for Localization in Autonomous Driving](https://github.com/YoungGer/sdc_coursera_UofT/tree/master/03_perception/visual_odometer) | Visual odometer including feature detection, feature drecription, feature matching, motion estimation through pnp | 
 | [Environment Perception For Self-Driving Cars](https://github.com/YoungGer/sdc_coursera_UofT/tree/master/03_perception) | drivable space estimation in 3D,  lane estimation | 
 | [CS231N Homeworks](https://github.com/YoungGer/CS231N) | Implement forward and backward process of neural network, including CNN, RNN, LSTM | 
+| [Face Generation](https://github.com/YoungGer/Udacity-DeepLearning-NanoDegree/tree/master/face_generation) |  Use a DCGAN on the CelebA dataset to generate images of novel and realistic human faces. | 
+| [Machine Translation](https://github.com/YoungGer/Udacity-DeepLearning-NanoDegree/tree/master/language-translation) |  Train a sequence to sequence network for English to French translation. | 
+| [Reinforcement Learning (Q-Learning)](https://github.com/YoungGer/Udacity-DeepLearning-NanoDegree/tree/master/reinforcement) | Implement a deep Q-learning network to play a simple game from OpenAI Gym. | 
 
 
 
@@ -68,9 +71,13 @@ To learn more about the projects，you can check these repositories:
 | Repository      | Description    | 
 | ---------- | ----------- | 
 | [Self-Driving Cars Specialization](https://github.com/YoungGer/sdc_coursera_UofT)  | Self driving car specialization taught in Coursera by University of Toronto | 
+| [Sensor Fusion NanoDegree](https://github.com/YoungGer/Udacity-SensorFusion-NanoDegree)  | Sensor Fusion nano-degree taught by Udacity.| 
+| [Self Driving Car NanoDegree](https://github.com/YoungGer/Udacity-SelfDrivingCar-NanoDegree)  | Self driving car nano-degree taught by Udacity. | 
+| [Deep Learning NanoDegree](https://github.com/YoungGer/Udacity-DeepLearning-NanoDegree)  | Deep learning nano-degree taught by Udacity. | 
+| [Robotics](https://github.com/YoungGer/robotics-coursera)  | Robotics Course taught by University of Pennsylvania. | 
+| [Projects collection 1](https://github.com/YoungGer/resume-gy/tree/master/CoursesProjects)  | Other related projects. | 
+| [Projects collection 2](https://github.com/YoungGer/MoocCourses)  | Other related projects. | 
 
-| [Sensor Fusion NanoDegree](https://github.com/YoungGer/Udacity-SensorFusion-NanoDegree)  | Sensor Fusion projects taught by Udacity.| 
 
-| [Self-Driving Cars Specialization](https://github.com/YoungGer/sdc_coursera_UofT)  | Self driving car specialization taught in Coursera by University of Toronto | 
 
 
