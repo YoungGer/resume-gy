@@ -4,7 +4,7 @@ I am a self-driving car engineer and I am interested in self-driving car technol
 
 Over the past few years, I've completed 56 courses and get certifications using part time. I recognize lifelong learning and want to grow through continuous learning.
 
-Some completed courses and certifications are shown in the table below, which mainly includes self-driving car, robotics, machine learning and data science. For more courses, you can view [courses](/CoursesCertification)
+Some completed courses and certifications are shown in the table below, which mainly includes self-driving car, robotics, machine learning and data science. For more courses, you can view [courses](/CoursesCertification).
 
 | Catigory      | Course Name /  Certification    | University / Educational Service     | 
 | ---------- | ----------- | ----------- |
