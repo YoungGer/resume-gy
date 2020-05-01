@@ -11,6 +11,13 @@ Main Machine Learning Courses Certification:
 - "机器学习技法" by National Taiwan University
 - "MachineLearning Specialization" by University of Washington
 - "Mining Massive Datasets" by Stanford University
+- "Scalable Machine Learning" by University of California Berkeley
+
+Main Robotic  Courses Certification:
+- "Self-Driving Cars Specialization" by University of Toronto
+- "Self-Driving Car Engineer" by Udacity
+- "Sensor Fusion" by Udacity
+- "Robotics: Perception" by 	University of Pennsylvania
 
 Main Data Science Courses Certification:
 - "AnalyticsEdge" by MIT
