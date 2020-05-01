@@ -58,6 +58,7 @@ I've completed many interesting projects through learning courses. Some of my pr
 | [3D Object Tracking](https://github.com/YoungGer/sdc_coursera_UofT/tree/master/03_perception) | Calculate TTC using lidar and camera | 
 | [Visual Odometry for Localization in Autonomous Driving](https://github.com/YoungGer/sdc_coursera_UofT/tree/master/03_perception/visual_odometer) | Visual odometer including feature detection, feature drecription, feature matching, motion estimation through pnp | 
 | [Environment Perception For Self-Driving Cars](https://github.com/YoungGer/sdc_coursera_UofT/tree/master/03_perception) | drivable space estimation in 3D,  lane estimation | 
+| [CS231N Homeworks](https://github.com/YoungGer/CS231N) | Implement forward and backward process of neural network, including CNN, RNN, LSTM | 
 
 
 
@@ -66,5 +67,10 @@ To learn more about the projects，you can check these repositories:
 
 | Repository      | Description    | 
 | ---------- | ----------- | 
-| a | b | 
+| [Self-Driving Cars Specialization](https://github.com/YoungGer/sdc_coursera_UofT)  | Self driving car specialization taught in Coursera by University of Toronto | 
+
+| [Sensor Fusion NanoDegree](https://github.com/YoungGer/Udacity-SensorFusion-NanoDegree)  | Sensor Fusion projects taught by Udacity.| 
+
+| [Self-Driving Cars Specialization](https://github.com/YoungGer/sdc_coursera_UofT)  | Self driving car specialization taught in Coursera by University of Toronto | 
+
 
