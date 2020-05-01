@@ -1,10 +1,10 @@
-I am a self-driving car engineer and I am interested in self-driving car technologies and machine learning.
+I am a self-driving car engineer, interested in self-driving car technology and machine learning.
 
 # Courses
 
-Over the past few years, I've completed 56 courses and get certifications using part time. I recognize lifelong learning and want to grow through continuous learning.
+Over the past few years, I've completed 56 courses and got certifications using my spare time. I recognize the importance of lifelong learning and want to achieve self-growth through continuous learning.
 
-Some completed courses and certifications are shown in the table below, which mainly includes self-driving car, robotics, machine learning and data science. For more courses, you can view [courses](/CoursesCertification).
+Some completed courses and certifications are shown in the table below, including self-driving car, robotics, machine learning, and data science. For more courses, you can view [courses](/CoursesCertification).
 
 | Catigory      | Course Name /  Certification    | University / Educational Service     | 
 | ---------- | ----------- | ----------- |
